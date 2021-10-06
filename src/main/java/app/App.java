@@ -12,20 +12,6 @@ public class App extends Jooby {
   {
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   }
 
   public static void main(final String[] args) {
